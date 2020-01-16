@@ -72,3 +72,19 @@ console.log(relative.getgreeting());
 // let friend=Object.create(person);
 // console.log(friend.getgreeting());
 // console.log(Object.getPrototypeOf(friend)===dog);
+
+
+// let stud={
+//     id:1,
+//     name:"pratik",
+//     dob:"02/12/199",
+//     mobile:9664500754
+// }
+
+// function myfunction(value){
+//     console.log(value);
+// }
+  
+// myfunction({id:1,name:pratik,mobile:9664500754}=stud)
+
+// console.log(id);
